@@ -3,8 +3,8 @@ layout: post
 title: Welcome to Heather's blog
 ---
 
-I would like to share with the world a literature review on a protein involved in Parkinson's Disease.
-Abstract
+I would like to share with the world a literature review on a protein involved in Parkinson's Disease. 
+### Abstract
 This review summarizes the current understanding of leucine-rich repeat kinase domain (LRRK2)’s role in Parkinson’s Disease (PD) progression regarding its biochemical activity, molecular interactions, and alterations in mutant phenotypes. Evidence from many types of animal models and cell lines is used to build general conclusions and speculations on the cellular pathways LRRK2 and its different mutations are involved in, and how these depict LRRK2’s role in PD. Emphasis on recent findings in c. elegans will be useful in determining future research avenues to help find viable cures. The occurring themes of vesicle trafficking, cytoskeletal dynamics, protein translation and autophagy disruption and their key pathogenic protein interactions and pathways are discussed. Contributions of alpha-synuclein to LRRK-2 PD symptoms are intriguing and deserve further investigation.  
 Keywords: Parkinson’s Disease, LRRK2, vesicle trafficking, autophagy, cytoskeletal dynamics, protein translation, kinase, genetic risk
 

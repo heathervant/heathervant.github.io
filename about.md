@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Scientist from Calgary currently studying at UBC in Vancouver. 
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+For more info please contact me.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Email me!](mailto:aaron.wquinton@gmail.com)

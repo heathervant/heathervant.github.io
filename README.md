@@ -1,4 +1,7 @@
-## What is nutrition?
+## What is proper nutrition?
+Glad you asked. It depends on many factors, but here are some general guidelines to get you started.
+
+blah bleh blah
 
 Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
 

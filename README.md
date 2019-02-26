@@ -8,6 +8,7 @@ My current life looks like this:
 When I'm not madly completing coding assignments and marvelling at the black-box complexities of neural networks and how they may be similar to our own human brains, I am usually out for a run, snowboarding, meditating or cooking healthy plant-based meals (and cookies). Yes, I fit the Vancouver stereotype, and am always looking for ways to add more health and fitness into my life, while hoping to inspire others to do the same. I'm happy to connect via [LinkedIn](https://www.linkedin.com/in/heather-van-tassel-49621b3b/), [twitter](https://twitter.com/hvan12), or [instagram](https://www.instagram.com/heathervant/) to discuss all things data science, neuroscience, nutrition, biodiversity, food security, climate change, outdoor adventures, zero waste living, and mindfulness.
 
 I will be adding pages and formatting to this blog, but for now, I'll just share a few of my thoughts on some of my favourite topics below:
+ <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> 
 
 ## What is healthy nutrition?
 Glad you asked. It depends on many factors, but here are some general guidelines I follow.

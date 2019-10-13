@@ -1,11 +1,12 @@
 
 # Hi, thanks for visiting my blog!
 
-I am currently very busy with a 10-month Master's in Data Science program at the University of British Columbia, in Vancouver. 
-My current life looks like this:
+I am a data scientist with a background in healthcare, and academic biochemistry and neuroscience research. I plan on 
+I was very busy with my 10-month Master's in Data Science program at the University of British Columbia, in Vancouver. 
+My life looked like this:
 - ![](https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif)
 
-When I'm not madly completing coding assignments and marvelling at the black-box complexities of neural networks and how they may be similar to our own human brains, I am usually out for a run, snowboarding, meditating or cooking healthy plant-based meals (and cookies). Yes, I fit the Vancouver stereotype, and am always looking for ways to add more health and fitness into my life, while hoping to inspire others to do the same. I'm happy to connect via [LinkedIn](https://www.linkedin.com/in/heather-van-tassel-49621b3b/), [twitter](https://twitter.com/hvan12), or [instagram](https://www.instagram.com/heathervant/) to discuss all things data science, neuroscience, nutrition, biodiversity, food security, climate change, outdoor adventures, zero waste living, and mindfulness.
+When I am not madly completing data science projects and marvelling at the black-box complexities of neural networks and how they may be similar to our own human brains, I am usually out for a run, snowboarding, meditating or cooking healthy plant-based meals (and cookies). Yes, I fit the Vancouver stereotype, and am always looking for ways to add more health and fitness into my life, while hoping to inspire others to do the same. I'm happy to connect via [LinkedIn](https://www.linkedin.com/in/heather-van-tassel-49621b3b/), [twitter](https://twitter.com/hvan12), or [instagram](https://www.instagram.com/heathervant/) to discuss all things data science, neuroscience, nutrition, biodiversity, food security, climate change, outdoor adventures, zero waste living, and mindfulness.
 
 I will be adding pages and formatting to this blog, but for now, I'll just share a few of my thoughts on some of my favourite topics below:
  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script> 

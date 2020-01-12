@@ -1,7 +1,8 @@
 
 # Hi, thanks for visiting my blog!
 
-I am a data scientist with a background in healthcare, and academic biochemistry and neuroscience research. I plan on 
+I am a data scientist with a background in healthcare, and academic biochemistry and neuroscience research. I plan on finding a fulfulling role in an ethical company wanting to make the world a better place.
+
 I was very busy with my 10-month Master's in Data Science program at the University of British Columbia, in Vancouver. 
 My life looked like this:
 - ![](https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif)

@@ -16,4 +16,5 @@ What made you smile today?
 
 ### Contact me
 [LinkedIn](https://www.linkedin.com/in/heather-van-tassel/)
+
 [heathervt12@gmail.com](mailto:heathervt12@gmail.com)

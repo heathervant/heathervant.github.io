@@ -6,6 +6,7 @@ description: [professioinal data science portfolio for Heather Van Tassel]
 # Name of your site (displayed in the header)
 name: Heather Van Tassel
 remote_theme: dashingcode/front-cover
+markdown: kramdown
 # Short bio or description (displayed in the header)
 description: Data Scientist in Vancouver
 
@@ -86,4 +87,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: jekyll-theme-architect
+#theme: jekyll-theme-architect

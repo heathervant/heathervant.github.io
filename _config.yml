@@ -1,12 +1,13 @@
 #
 # This file contains configuration flags to customize your site
 #
+description: [professioinal data science portfolio for Heather Van Tassel]
 
 # Name of your site (displayed in the header)
 name: Heather Van Tassel
-
+remote_theme: dashingcode/front-cover
 # Short bio or description (displayed in the header)
-description: Data Scientist from Vancouver
+description: Data Scientist in Vancouver
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/42653326?s=460&v=4
@@ -18,12 +19,12 @@ avatar: https://avatars0.githubusercontent.com/u/42653326?s=460&v=4
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: heathervt12@gmail.com
   facebook:
   flickr:
   github: heathervant
   instagram: heathervant
-  linkedin:
+  linkedin: Heather Van Tassel
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb

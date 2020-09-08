@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-title: [Heather's Blog]
+title: [Heather Van Tassel]
 
 
 # Name of your site (displayed in the header)
@@ -10,7 +10,7 @@ theme: jekyll-theme-cayman
 # theme: dashingcode/front-cover
 markdown: kramdown
 # Short bio or description (displayed in the header)
-description: Data Scientist in Vancouver
+description: Data Scientist, Entrepreneur, Neuroscientist
 
 #github:
  # zip_url: http://example.com/download.zip

@@ -5,7 +5,8 @@ description: [professioinal data science portfolio for Heather Van Tassel]
 
 # Name of your site (displayed in the header)
 name: Heather Van Tassel
-theme: jekyll-theme-cayman #dashingcode/front-cover
+theme: jekyll-theme-cayman 
+# theme: dashingcode/front-cover
 markdown: kramdown
 # Short bio or description (displayed in the header)
 description: Data Scientist in Vancouver

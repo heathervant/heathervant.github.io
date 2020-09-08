@@ -29,7 +29,8 @@ permalink: /
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       
-      <h3 class="masthead clearfix">{{<a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>}}</h3>
+      <h3 class="masthead clearfix">
+        <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a></h3>
 
       
       {% if site.github.is_project_page %}

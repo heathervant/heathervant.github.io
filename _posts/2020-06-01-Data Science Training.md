@@ -6,7 +6,8 @@ After completing my undergraduate degree in Integrated Science: Biochemistry and
 
 I was very busy with my 10-month master's at the University of British Columbia, in Vancouver. 
 My life looked like this:
-- ![](https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif)
+
+![](https://media.giphy.com/media/ukMiDlCmdv2og/giphy.gif)
 
 I am very grateful for the intense learning processes that occurred. Some of the topics we covered in depth include **descriptive statistics, programming for data science, data wrangling, data visualization, algorithms and data structures, inference, regression, supervised machine learning, unsupervised machine learning, feature and model selection, collaborative software development, cloud computing, SQL database design, communication, privacy, ethics, and security.**
 We had four labs due every week on Saturday at 6pm. This means that we completed 96 labs in 8 months. Each of our 16 courses also had two exams, which I found helpful for fully comprehending the material. This was followed by a 2-month capstone project with a partnering company to solve their business problems with data science solutions. My project contained confidential data, so I am unable to share the full details. Essentially, I helped E-comm improve their data management strategy and employee

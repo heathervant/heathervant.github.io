@@ -1,7 +1,8 @@
 #
 # This file contains configuration flags to customize your site
 #
-description: [professioinal data science portfolio for Heather Van Tassel]
+title: [Heather's Blog]
+
 
 # Name of your site (displayed in the header)
 name: Heather Van Tassel
@@ -11,9 +12,9 @@ markdown: kramdown
 # Short bio or description (displayed in the header)
 description: Data Scientist in Vancouver
 
-github:
-  zip_url: http://example.com/download.zip
-  another_url: another value
+#github:
+ # zip_url: http://example.com/download.zip
+#  another_url: another value
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/42653326?s=460&v=4

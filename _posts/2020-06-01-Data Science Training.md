@@ -15,7 +15,7 @@ engagement by creating a reproducible data integration pipeline from 4 departmen
 
 For more information on my master's program, check out the [UBC MDS website](https://masterdatascience.ubc.ca/programs/vancouver).
 I was interviewed about my experience in the program, which you can read [here.](https://masterdatascience.ubc.ca/student-success-stories/mds-spotlight-meet-heather-van-tassel-mds-vancouver-%E2%80%93-class-2019)
-Please see my resume [here](https://github.com/heathervant/heathervant.github.io/blob/master/_posts/Heather%20Van%20Tassel-resume.pdf).
+Please see my resume [here](https://github.com/heathervant/heathervant.github.io/blob/master/_posts/Heather Van Tassel_Resume (1).pdf).
 
 When I am not at work completing data science projects or marvelling at the black-box complexities of neural networks and how they may be similar to our own human brains, I am usually out for a run, snowboarding, meditating or cooking healthy plant-based meals (and cookies). I like reading nutrition research in my spare time, and am always looking for ways to add more health and fitness into my life, while hoping to inspire others to do the same. I also volunteer with [Vyve](https://vyve.life/), a human connection agency, and Habit@ Lab, a sustainability-minded habit-building workshop series.
 

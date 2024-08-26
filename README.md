@@ -1,7 +1,7 @@
 
 # Hi, thanks for visiting my blog!
 
-I am a data scientist with two years of experience working at tech software start-ups. I have a background in healthcare, biochemistry and neuroscience research. I plan on finding a fulfulling role in an ethical company wanting to make the world a better place with cutting-edge transparent data science approaches.
+I am a data scientist with three+ years of experience working at tech software start-ups. I have a background in healthcare, biochemistry and neuroscience research. I plan on finding a fulfulling role in an ethical company wanting to make the world a better place with cutting-edge transparent data science approaches.
 
 In 2018/19 I was very busy with my 10-month Master's in Data Science program at the University of British Columbia, in Vancouver. 
 My life looked like this:

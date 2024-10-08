@@ -29,4 +29,4 @@ Team size: 4 <br>
 I participated in UBC's Hackseq in 2018 and 2019. This project worked with the Teracyc ocean project data, which consists of over 300 water samples from around the world, analyzed for viral and bacterial DNA. This was then mapped to biochemical metabolic families by the Hallam lab at UBC. Our hackathon team then visualized this data in our [viral voyager shiny app](https://oganm.com/shiny/taracyc/).  <br>
 My 2019 group project was creating an [antimicrobial resistance clinical analysis pipeline.](https://github.com/schorlton/bugseq-hackseq) </p>
 
-More recent projects I am working on include building a chatbot, and a geospatial analysis of supply chain routes.
+<p> More recent projects I am working on include building a chatbot, and a geospatial analysis of supply chain routes. </p>

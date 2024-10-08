@@ -6,9 +6,9 @@ title: Data Science Projects
 I would like to showcase a few of the many data science projects that I have worked on here. I can't really share many details on what I worked on at several software startups here publically, but happy to describe some details in interviews.
 
 **R Shiny Dashboard**
-Date: 2019 <br>
-Team size: 2 <br>
-Description: This is an interactive dashboard with a geographical map of mental health survey results, built with R shiny. <br>
+Date: 2019   
+Team size: 2  
+Description: This is an interactive dashboard with a geographical map of mental health survey results, built with R shiny.  
 Link:  [interactive dashboard](https://mikeymice.shinyapps.io/mentalhealth/)
 
 **Software Package in R and Python**

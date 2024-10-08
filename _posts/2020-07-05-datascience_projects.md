@@ -6,16 +6,16 @@ title: Data Science Projects
 I would like to showcase a few of the many data science projects that I have worked on here. I can't really share many details on what I worked on at several software startups here publically, but happy to describe some details in interviews.
 
 **R Shiny Dashboard**
-Date: 2019   
-Team size: 2  
-Description: This is an interactive dashboard with a geographical map of mental health survey results, built with R shiny.  
-Link:  [interactive dashboard](https://mikeymice.shinyapps.io/mentalhealth/)
+<p> Date: 2019 <br>  
+Team size: 2   <br>
+Description: This is an interactive dashboard with a geographical map of mental health survey results, built with R shiny.  <br>
+Link:  [interactive dashboard](https://mikeymice.shinyapps.io/mentalhealth/) </p>
 
 **Software Package in R and Python**
-Date: 2019 <br>
+<p> Date: 2019 <br>
 Team size: 3 <br>
 Description: This is a software package I built with my classmates for data cleaning, in R and python. It identifies missing data and tells you the locations, and has functions to replace with a value of your choice, or delete these rows or columns. It provides more summary functions that the usual .describe() pandas function. <br>
-Link: [python package](https://github.com/UBC-MDS/CleanPy) [R package](https://github.com/UBC-MDS/CleanR)
+Link: [python package](https://github.com/UBC-MDS/CleanPy) [R package](https://github.com/UBC-MDS/CleanR)</p>
 
 **Statistical Analysis Pipeline within Docker**
 Date: 2019 <br>

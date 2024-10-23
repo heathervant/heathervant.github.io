@@ -12,16 +12,16 @@ Description: This is an interactive dashboard with a geographical map of mental 
 Link:  [interactive dashboard](https://mikeymice.shinyapps.io/mentalhealth/) </p>
 
 **Software Package in R and Python**
-<p> Date: 2019 <br>
+Date: 2019 <br>
 Team size: 3 <br>
 Description: This is a software package I built with my classmates for data cleaning, in R and python. It identifies missing data and tells you the locations, and has functions to replace with a value of your choice, or delete these rows or columns. It provides more summary functions that the usual .describe() pandas function. <br>
-Link: [python package](https://github.com/UBC-MDS/CleanPy) [R package](https://github.com/UBC-MDS/CleanR)</p>
+Link: [python package](https://github.com/UBC-MDS/CleanPy) [R package](https://github.com/UBC-MDS/CleanR)
 
 **Statistical Analysis Pipeline within Docker**
-<p> Date: 2019 <br>
+Date: 2019 <br>
 Team size: 2 <br>
 Description: Reproducible 2-way ANOVA analysis pipeline of viral DNA using Docker and Make files. We carried out a Two-Way ANOVA (Factorial Analysis) to compare the main effects and interaction effects between biological pathways and ocean depth levels on the abundance of viral DNA sequences <br>
-Link: [github repo](https://github.com/UBC-MDS/Taracyc_Ocean_Virus_Analysis) </p>
+Link: [github repo](https://github.com/UBC-MDS/Taracyc_Ocean_Virus_Analysis) 
 
 **Statistical Analysis and R shiny app**
 <p> Date: 2018 + 2019 2 weekends <br>

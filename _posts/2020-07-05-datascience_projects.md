@@ -6,10 +6,10 @@ title: Data Science Projects
 I would like to showcase a few of the many data science projects that I have worked on here. I can't really share many details on what I worked on at several software startups here publically, but happy to describe some details in interviews.
 
 **R Shiny Dashboard**
-<p> Date: 2019 <br>  
+Date: 2019 <br>  
 Team size: 2   <br>
 Description: This is an interactive dashboard with a geographical map of mental health survey results, built with R shiny.  <br>
-Link:  [interactive dashboard](https://mikeymice.shinyapps.io/mentalhealth/) </p>
+Link:  [interactive dashboard](https://mikeymice.shinyapps.io/mentalhealth/) 
 
 **Software Package in R and Python**
 Date: 2019 <br>
@@ -24,9 +24,9 @@ Description: Reproducible 2-way ANOVA analysis pipeline of viral DNA using Docke
 Link: [github repo](https://github.com/UBC-MDS/Taracyc_Ocean_Virus_Analysis) 
 
 **Statistical Analysis and R shiny app**
-<p> Date: 2018 + 2019 2 weekends <br>
+Date: 2018 + 2019 2 weekends <br>
 Team size: 4 <br>
 I participated in UBC's Hackseq in 2018 and 2019. This project worked with the Teracyc ocean project data, which consists of over 300 water samples from around the world, analyzed for viral and bacterial DNA. This was then mapped to biochemical metabolic families by the Hallam lab at UBC. Our hackathon team then visualized this data in our [viral voyager shiny app](https://oganm.com/shiny/taracyc/).  <br>
-My 2019 group project was creating an [antimicrobial resistance clinical analysis pipeline.](https://github.com/schorlton/bugseq-hackseq) </p>
+My 2019 group project was creating an [antimicrobial resistance clinical analysis pipeline.](https://github.com/schorlton/bugseq-hackseq) 
 
 <p> More recent projects I am working on include building a chatbot, and a geospatial analysis of supply chain routes. </p>
